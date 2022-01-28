@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "fucking-coin",
+    "slug": "fucking-coin",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "fucking-coin"
+}
